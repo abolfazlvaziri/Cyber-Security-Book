@@ -14,3 +14,14 @@ I hope this book will help you to provide your activities and security more conf
 
 امیدوارم این کتاب به شما کمک کند تا در فضای مجازی با اطمینان بیشتری فعالیت کنید و امنیت خود را تامین کنید.
 
+
+---
+
+**Online Source For Read The Book:**
+- Medium(English Version): https://medium.com/@abolfazl.vaziri/cyber-security-05c62f743001
+- Virgool(Persian Version): https://vrgl.ir/lbGlK
+
+**Contact To Me**
+
+- Instagram: https://instagram.com/abolfazlvaziriofficial
+- Telegram: https://t.me/AVN_COMMUNITY
